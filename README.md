@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Chandan Mistry (@Chandan-1824)
-- 👨‍💻 I’m a Computer Science and Engineering student passionate about Web Development and Web Design
-- 🌱 Currently enhancing my skills in Backend Development
-- 💼 I’m open to collaborating on Web Development projects
-- 📫 You can reach me at: chandanmistry844@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Reach out to me, and I’d be happy to share something interesting!
+-👋 Hi, I’m Chandan Mistry (@Chandan-1824)
+
+-👨‍💻 I’m a Computer Science and Engineering (CSE) student transitioning into **Data Analysis**, working on hands-on analytics projects to build a strong foundation.
+
+-🌱 Currently learning and improving my skills in data analysis, including Excel, SQL, and data fundamentals.
+
+-💼 Open to collaborating on beginner-friendly **Data Analysis** projects and learning-focused work.
+
+-📫 You can reach me at: chandanmistry844@gmail.com
+
+-😄 Pronouns: He/Him
+
+-⚡ Fun fact: I enjoy learning by building projects and exploring new problem-solving approaches.
+
 
 
 <!---
